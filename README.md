@@ -18,6 +18,7 @@ Pitchers Daily - This is an example of how we are able to look at which pitchers
 The actual reports below use the GT package in R and are very valuable for creating customized reports. 
 
 
+Hitter Stats Week 10 (April 25).pdf![image](https://user-images.githubusercontent.com/71948524/116482295-c1071080-a839-11eb-8d7c-b7a864f1a4f7.png)
 
 
 
