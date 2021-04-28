@@ -18,7 +18,30 @@ Pitchers Daily - This is an example of how we are able to look at which pitchers
 The actual reports below use the GT package in R and are very valuable for creating customized reports. 
 
 
-Hitter Stats Week 10 (April 25).pdf![image](https://user-images.githubusercontent.com/71948524/116482295-c1071080-a839-11eb-8d7c-b7a864f1a4f7.png)
+![image](https://user-images.githubusercontent.com/71948524/116482831-c9ac1680-a83a-11eb-9af4-6c59ce74a877.png)
+
+
+
+# Weekly Game Logs
+
+
+Hitters: 
+
+![image](https://user-images.githubusercontent.com/71948524/116482876-e0eb0400-a83a-11eb-8faf-a27a7aada241.png)
+
+
+Pitching:
+
+![image](https://user-images.githubusercontent.com/71948524/116482914-f2341080-a83a-11eb-8170-55c245f91710.png)
+
+
+# Year to Date Game Logs
+
+Hitting:![image](https://user-images.githubusercontent.com/71948524/116482956-05df7700-a83b-11eb-903f-b7897c8ab582.png)
+
+Pitching: ![image](https://user-images.githubusercontent.com/71948524/116482980-109a0c00-a83b-11eb-8a5f-2d0772984024.png)
+
+
 
 
 
