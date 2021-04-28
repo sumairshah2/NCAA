@@ -11,6 +11,11 @@ Hitters Daily - This also allows us to look at which games are scheduled on any 
 
 ![image](https://user-images.githubusercontent.com/71948524/116478591-2572a180-a833-11eb-900c-8d420d9cd5bc.png)
 
+Pitchers Daily - This is an example of how we are able to look at which pitchers had games but did not pitch, below is a snippet. 
+
+![image](https://user-images.githubusercontent.com/71948524/116479419-7636ca00-a834-11eb-8250-3925951ab843.png)
+
+
 
 
 
