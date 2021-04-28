@@ -37,7 +37,7 @@ Pitching:
 
 # Year to Date Game Logs
 
-Hitting:![image](https://user-images.githubusercontent.com/71948524/116482956-05df7700-a83b-11eb-903f-b7897c8ab582.png)
+Hitting: ![image](https://user-images.githubusercontent.com/71948524/116482956-05df7700-a83b-11eb-903f-b7897c8ab582.png)
 
 Pitching: ![image](https://user-images.githubusercontent.com/71948524/116482980-109a0c00-a83b-11eb-8a5f-2d0772984024.png)
 
