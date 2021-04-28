@@ -30,16 +30,20 @@ Hitters:
 ![image](https://user-images.githubusercontent.com/71948524/116482876-e0eb0400-a83a-11eb-8faf-a27a7aada241.png)
 
 
-Pitching:
+Pitchers:
 
 ![image](https://user-images.githubusercontent.com/71948524/116482914-f2341080-a83a-11eb-8170-55c245f91710.png)
 
 
 # Year to Date Game Logs
 
-Hitting: ![image](https://user-images.githubusercontent.com/71948524/116482956-05df7700-a83b-11eb-903f-b7897c8ab582.png)
+Hitters: 
 
-Pitching: ![image](https://user-images.githubusercontent.com/71948524/116482980-109a0c00-a83b-11eb-8a5f-2d0772984024.png)
+![image](https://user-images.githubusercontent.com/71948524/116482956-05df7700-a83b-11eb-903f-b7897c8ab582.png)
+
+Pitchers:
+
+![image](https://user-images.githubusercontent.com/71948524/116482980-109a0c00-a83b-11eb-8a5f-2d0772984024.png)
 
 
 
