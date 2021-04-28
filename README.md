@@ -17,6 +17,8 @@ Pitchers Daily - This is an example of how we are able to look at which pitchers
 
 The actual reports below use the GT package in R and are very valuable for creating customized reports. 
 
+# Below are some snapshot examples of how the reports that GT produces look like.
+
 
 ![image](https://user-images.githubusercontent.com/71948524/116482831-c9ac1680-a83a-11eb-9af4-6c59ce74a877.png)
 
